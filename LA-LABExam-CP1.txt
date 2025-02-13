@@ -1,0 +1,15 @@
+1. How do you change the mode from edit to read only?
+=> press <Esc> key
+2. How do you (a) save the file you are editing and (b) close the file you are editing?
+=> :wq
+:w=saves the file
+:q=close the file
+3. How do you delete (a) letter, (b) word and (c) sentence?
+> (a) x for letter, (b) dw for word and (c) d$ or dd for sentence
+4. You are editing the document in (edit mode) Explain how will you replace one word with another?
+=>Delete the word sing dw and then append the sentence using A.
+s/old/new/g
+
+3. Replace all instances of word the with these?
+=>%s/\<the\>/these/g
+
