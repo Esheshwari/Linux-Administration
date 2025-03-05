@@ -1,0 +1,8 @@
+#change bash prompt to:
+#1. [rvu: <cmd>]:
+#in place of <cmd>, your bash prompt should show the current directory
+#2. [<date> <time>]:
+#current data and time should show up in place of <date> <time>
+#3.[<date> <time>]
+#>>>current date and time should show up in date and time
+#<date> should be in yellow, <time> should be in green and>>>should be in blue
