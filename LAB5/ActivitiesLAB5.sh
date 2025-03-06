@@ -15,4 +15,5 @@ tar -cvf Python-Backup.tar Python-Backup/
 
 # Output
 echo "Backup process is complete. Python-Backup.tar has been created."
+#LAB5/Screenshot from 2025-03-06 10-50-39.png: this contains output
 
