@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Create a directory
+mkdir my_dir
+
+# Create a file inside the directory
+touch my_dir/my_file.txt
+
+# Move the file to a new location
+mv my_dir/my_file.txt ./my_file.txt
+
+# Remove the directory
+rmdir my_dir
+
+# Remove the file
+rm my_file.txt
